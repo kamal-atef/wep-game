@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wep-game/static/css/main.e6c13ad2.css",
+    "main.js": "/wep-game/static/js/main.f81c40ac.js",
+    "index.html": "/wep-game/index.html",
+    "main.e6c13ad2.css.map": "/wep-game/static/css/main.e6c13ad2.css.map",
+    "main.f81c40ac.js.map": "/wep-game/static/js/main.f81c40ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f81c40ac.js"
+  ]
+}
