@@ -34,7 +34,9 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Home/>,
-    errorElement: <Home/>
+    errorElement: <h1 style={{
+      textAlign:'center',
+    }}>no Page</h1>
   },
   {
     path: "/spider-man-wep-of-shadows",
